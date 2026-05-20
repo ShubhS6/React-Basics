@@ -1,0 +1,26 @@
+React is js Library
+
+
+1. create react app using vite it is fast
+a. npm create vite@latest
+
+2. customize the port
+a. goto vite.congif.js
+and add server
+
+3. jsx is syntax extension for javascript
+it is use to write html like code in javascript
+
+4. always use => arrow
+
+5. for default export you can import by name
+but for not default export you have to use {name}
+
+6. to pass boolean value use isMember={true} not isMember="true" 
+same do with integer num also
+
+
+7. state in react is a way for react component to hold onto some info 
+that can change over time and need to remember.
+difference between state and variable const is when ever state change react know to rerender the 
+component to reflect those changes
