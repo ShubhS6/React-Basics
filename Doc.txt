@@ -24,3 +24,9 @@ same do with integer num also
 that can change over time and need to remember.
 difference between state and variable const is when ever state change react know to rerender the 
 component to reflect those changes
+
+8. UseEffect hook is react lets you run code automatically
+ when some thing changes or when components load
+
+9. useRef hook use to persist the value accross all renders
+does not cause the component to  rerender when  the value change
